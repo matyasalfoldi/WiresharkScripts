@@ -1,6 +1,6 @@
 - ARP parser
  - Create a mac: ip table
- - if an ip is allocated to 2 ips output warning
+ - if an ip is allocated to 2 macs output warning
 - DNS parser
  - check for low TTL
  - check for possible data exfiltration
